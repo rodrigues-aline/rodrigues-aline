@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Web and Mobile Development
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning
 - 💬 Ask me about Machine Learning Algorithms, Python Scripts, questions about Data Analysis, Web and Mobile Development. I would be soo glad to help you!!!
-
 <div>
   <a href="https://github.com/rodrigues-aline">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigues-aline&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,8 +18,7 @@
   <img align="center" alt="Aline-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Aline-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
-  
-  
+   
   ##
   
   
