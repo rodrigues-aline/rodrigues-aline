@@ -1,6 +1,8 @@
-### Hi there,
+## Hi there,
 
-💻 🔭 👩‍🎓 📚 ❤️ I’m currently learning Data Science, Machine Learning, Deep Learning
+### I’m currently working and studying Data Science, Machine Learning, Deep Learning 💻 🔭 👩‍🎓 📚 ❤️
+  - Speech Reading to Text
+  - Classification and Detection Sea Surface Objects
 <div style="float: left; width:50%;">
   <a href="https://github.com/rodrigues-aline">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigues-aline&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
