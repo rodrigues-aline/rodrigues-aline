@@ -1,7 +1,6 @@
 ### Hi there,
 
-- 💻 I’m currently working on Web and Mobile Development
-- 🔭 👩‍🎓 📚 ❤️ I’m currently learning Data Science, Machine Learning, Deep Learning
+💻 🔭 👩‍🎓 📚 ❤️ I’m currently learning Data Science, Machine Learning, Deep Learning
 <div style="float: left; width:50%;">
   <a href="https://github.com/rodrigues-aline">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigues-aline&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,7 +15,9 @@
   <img align="center" alt="Aline-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Aline-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Aline-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
+  <img align="center" alt="Aline-Pytorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+  <img align="center" alt="Aline-Tensorflow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  </div>
    
   ##
   
